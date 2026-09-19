@@ -13,23 +13,23 @@
 
 ### Example Dialogue
 
-CA: Hello @, welcome to the [AIRLINE] check-in counter at [DEPARTURE AIRPORT]. May I ask for your destination, sir? 
+> CA: Hello @, welcome to the [AIRLINE] check-in counter at [DEPARTURE AIRPORT]. May I ask for your destination, sir? 
 Passenger: I'm going to [DESTINATION]. 
-CA: Certainly! May I see your passport, please? 
+> CA: Certainly! May I see your passport, please? 
 Passenger: Here. Passenger hands pass 
-CA takes pass, hands back 
-CA: Thank you! Which class are you flying with today, sir? 
+> CA takes pass, hands back 
+> CA: Thank you! Which class are you flying with today, sir? 
 Passenger: "I'll go with business class." 
-CA: Great choice! Do you want a digital boarding pass or a normal boarding pass, sir? 
+> CA: Great choice! Do you want a digital boarding pass or a normal boarding pass, sir? 
 Passenger: "I'll go with the digital one, please." 
-CA: Okay. 
-CA creates digital bp creates QR code for bp hands QR code to passenger (1) 
-CA confirms print; prints bp hands BP (2) 
-Passenger: Thanks. 
-CA: Is there any overweight luggage, sir? 
+> CA: Okay. 
+> CA creates digital bp creates QR code for bp hands QR code to passenger (1) 
+> CA confirms print; prints bp hands BP (2) 
+> Passenger: Thanks. 
+> CA: Is there any overweight luggage, sir? 
 Passenger: Yes, only this luggage. Passenger places luggage 
-CA weighs luggage, scans luggage 
-CA: Your flight number will be [CALLSIGN] and operated by an [AIRCRAFT TYPE], and your gate is gate [GATE]. Thank you for choosing [AIRLINE] for flying and have a great flight! Passenger: Thank you!
+> CA weighs luggage, scans luggage 
+> CA: Your flight number will be [CALLSIGN] and operated by an [AIRCRAFT TYPE], and your gate is gate [GATE]. Thank you for choosing [AIRLINE] for flying and have a great flight! Passenger: Thank you!
 
 **Notes:** (1) is for the digital one and (2) is for the printed one
 
