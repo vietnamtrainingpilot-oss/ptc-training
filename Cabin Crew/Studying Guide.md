@@ -13,23 +13,24 @@
 
 ### Example Dialogue
 
-> CA: Hello @, welcome to the [AIRLINE] check-in counter at [DEPARTURE AIRPORT]. May I ask for your destination, sir? 
-Passenger: I'm going to [DESTINATION]. 
-> CA: Certainly! May I see your passport, please? 
-Passenger: Here. Passenger hands pass 
-> CA takes pass, hands back 
-> CA: Thank you! Which class are you flying with today, sir? 
-Passenger: "I'll go with business class." 
-> CA: Great choice! Do you want a digital boarding pass or a normal boarding pass, sir? 
-Passenger: "I'll go with the digital one, please." 
-> CA: Okay. 
-> CA creates digital bp creates QR code for bp hands QR code to passenger (1) 
-> CA confirms print; prints bp hands BP (2) 
-> Passenger: Thanks. 
-> CA: Is there any overweight luggage, sir? 
-Passenger: Yes, only this luggage. Passenger places luggage 
-> CA weighs luggage, scans luggage 
-> CA: Your flight number will be [CALLSIGN] and operated by an [AIRCRAFT TYPE], and your gate is gate [GATE]. Thank you for choosing [AIRLINE] for flying and have a great flight! Passenger: Thank you!
+- CA: Hello @, welcome to the [AIRLINE] check-in counter at [DEPARTURE AIRPORT]. May I ask for your destination, sir?
+- Passenger: I'm going to [DESTINATION].
+- CA: Certainly! May I see your passport, please?
+- Passenger: Here. Passenger hands pass
+- CA takes pass, hands back
+- CA: Thank you! Which class are you flying with today, sir?
+- Passenger: "I'll go with business class."
+- CA: Great choice! Do you want a digital boarding pass or a normal boarding pass, sir?
+- Passenger: "I'll go with the digital one, please."
+- CA: Okay.
+- CA creates digital bp creates QR code for bp hands QR code to passenger (1)
+- CA confirms print; prints bp hands BP (2)
+- Passenger: Thanks.
+- CA: Is there any overweight luggage, sir?
+- Passenger: Yes, only this luggage. Passenger places luggage
+- CA weighs luggage, scans luggage
+- CA: Your flight number will be [CALLSIGN] and operated by an [AIRCRAFT TYPE], and your gate is gate [GATE]. Thank you for choosing [AIRLINE] for flying and have a great flight!
+- Passenger: Thank you!
 
 **Notes:** (1) is for the digital one and (2) is for the printed one
 
@@ -39,12 +40,14 @@ Passenger: Yes, only this luggage. Passenger places luggage
 
 ### Example Dialogue
 
-GA: Hello @, welcome to [AIRLINE] flight [CALLSIGN]! May I take a look at your boarding pass, sir? 
-Passenger: Sure! 
-Passenger gives boarding pass 
-GA scans boarding pass, hands back BP 
-Passenger: takes 
-GA: Thank you! All details are correct, and you may board the plane. Passenger: Thank you! GA: You're welcome, enjoy your flight!
+- GA: Hello @, welcome to [AIRLINE] flight [CALLSIGN]! May I take a look at your boarding pass, sir?
+- Passenger: Sure!
+- Passenger gives boarding pass
+- GA scans boarding pass, hands back BP
+- Passenger: takes
+- GA: Thank you! All details are correct, and you may board the plane.
+- Passenger: Thank you!
+- GA: You're welcome, enjoy your flight!
 
 **Note:** for international flights, please also ask them for their passport. You may ask them however you want, but remember to be professional and formal to passengers.
 
@@ -52,11 +55,11 @@ GA: Thank you! All details are correct, and you may board the plane. Passenger: 
 
 At [AIRLINE], we offer business class. The host will tell you if we have business class or not. After all the business class passengers board, you may serve them with preflight service. Follow the dialogue example below:
 
-You: Hello, welcome to Business Class preflight service. What would you like to have? 
-Passenger: I'll take a glass of water. 
-You: Sure! hands water 
-You: Also, here is your hot towel for being a Business Class Passenger — please call me if you need help! 
-Passenger: Thank you!
+- You: Hello, welcome to Business Class preflight service. What would you like to have?
+- Passenger: I'll take a glass of water.
+- You: Sure! hands water
+- You: Also, here is your hot towel for being a Business Class Passenger — please call me if you need help!
+- Passenger: Thank you!
 
 You may come back to your seat when preflight service is completed.
 
@@ -80,17 +83,17 @@ Now, you may begin the flight service. You should ask passengers what they want 
 
 ### Example Dialogue
 
-FA: Hello, welcome to [AIRLINE] in-flight food service on flight [CALLSIGN] to [DESTINATION] ([ORIGIN]). May I take your order, please? @ 
-PAX: Can I have a bowl of [MEAL]? 
-FA: Of course! Please wait a moment while I prepare your order. @ 
-FA: prepares the meal, places food on the table for passenger 
-FA: Here is your food. Would you like anything else? @ 
-PAX: takes food 
-PAX: Can I also have a glass of milk also? 
-FA: Of course! Your drink will be out shortly. @ 
-FA: takes out glass and pours drink into glass; hands glass to passenger 
-FA: Here is your drink. Enjoy your meal! @ 
-PAX: Thank you! takes drink
+- FA: Hello, welcome to [AIRLINE] in-flight food service on flight [CALLSIGN] to [DESTINATION] ([ORIGIN]). May I take your order, please? @
+- PAX: Can I have a bowl of [MEAL]?
+- FA: Of course! Please wait a moment while I prepare your order. @
+- FA: prepares the meal, places food on the table for passenger
+- FA: Here is your food. Would you like anything else? @
+- PAX: takes food
+- PAX: Can I also have a glass of milk also?
+- FA: Of course! Your drink will be out shortly. @
+- FA: takes out glass and pours drink into glass; hands glass to passenger
+- FA: Here is your drink. Enjoy your meal! @
+- PAX: Thank you! takes drink
 
 ## VII. Landing/Descent
 When completing the flight service, the plane will start descent. Play this PA Announcement for descent:
