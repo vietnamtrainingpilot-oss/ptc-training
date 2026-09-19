@@ -54,10 +54,7 @@ When contributing, explain what changed and whether it applies across PTC or onl
 
 ## Credits
 
-Maintained by PTC Training contributors.
-
-Credit the original contributors and link back to this repository when reusing or adapting these materials. Add contributor names, usernames, or organization details as the project grows.
-
+All credits belong to khoinguyen0513 (vietnamtrainingpilot-oss - repositary owner)
 ## Usage
 
 You may copy, adapt, translate, and redistribute these materials for free use within PTC, provided that existing attribution is retained, changes are clearly identified, and the material is not presented as real-world aviation certification.
@@ -71,3 +68,7 @@ These are community-created materials for virtual operations. Always follow the 
 ## Status
 
 Active community resource. Some application files are intentionally available as templates and may be completed by individual airlines or servers.
+
+## Suggestions
+
+If you'd like for our team to add anything, join our server at https://discord.gg/fq8CXz4vFF
