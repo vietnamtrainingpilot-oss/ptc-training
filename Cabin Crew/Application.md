@@ -1,4 +1,5 @@
-Cabin Crew Application
+## Cabin Crew Application
+
 1. What are your Roblox and Discord usernames?
 2. What is your region? How active are you? How old are you?
 3. What is your previous experience in this department?
