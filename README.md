@@ -72,3 +72,6 @@ Active community resource. Some application files are intentionally available as
 ## Suggestions
 
 If you'd like for our team to add anything, join our server at https://discord.gg/fq8CXz4vFF
+
+A Trainer Guide will be soon added into this repo
+
