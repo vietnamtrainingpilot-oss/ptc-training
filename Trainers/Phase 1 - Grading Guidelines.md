@@ -91,28 +91,3 @@ Use the following guidelines when grading. Responses do not need to match the ex
 | 9 | • Welcome the passenger to the in-flight service (1 point)<br>• Ask what they would like to eat or drink (1 point)<br>• After serving the order, ask whether they require anything else (1 point) | 3 |
 | 10 | • Remain calm and politely request that the passenger calm down (1 point)<br>• Notify the flight dispatcher (1 point)<br>• If the behaviour escalates, follow the organization’s passenger-removal and reporting procedures (1 point) | 3 |
 
----
-
-# Phase 2
-
-## Trainer Responsibilities
-
-> **Date:** 8th August, 2026  
-> **Authors:** ADLD | vietnamtrainingpilot & DLD | DennyIsStillHere
-
-This section explains the trainer’s responsibilities during Phase 2. Trainers must conduct evaluations privately and follow the applicable department procedures, grading criteria, and evaluation requirements.
-
-Trainers are responsible for:
-
-- Preparing the evaluation environment.
-- Explaining the evaluation process before it begins.
-- Applying the grading criteria consistently.
-- Recording performance accurately.
-- Avoiding coaching during the evaluation unless intervention is required for safety or technical reasons.
-- Providing clear feedback after the evaluation.
-- Recording the final result through the approved training system.
-- Requesting support from a senior trainer when necessary.
-
-Refer to the applicable Phase 2 evaluation guide for department-specific procedures, criteria, routes, scenarios, and pass requirements.
-
-> **Confidentiality:** All evaluation materials and results must remain confidential.
