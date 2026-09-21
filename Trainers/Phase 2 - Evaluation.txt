@@ -1,11 +1,20 @@
-﻿STAGE 2 PRIVATE EVALUATION
-TRAINER GUIDE
+# Stage 2 Private Evaluation
 
-Purpose
-This guide provides trainers with a standardized framework for conducting Stage 2 private evaluations in PTFS. It is intended for trainer use only and covers evaluation procedures, grading criteria, routes, and pass requirements.
+## Trainer Guide
 
-Evaluation Overview
+---
+
+## Purpose
+
+This guide provides trainers with a standardized framework for conducting Stage 2 private evaluations. It is intended for trainer use only and covers evaluation procedures, grading criteria, routes, and pass requirements.
+
+---
+
+## Evaluation Overview
+
 Stage 2 evaluates whether the participant can apply the procedures and skills covered during Stage 1 in a practical environment.
+
+### Trainer Responsibilities
 
 Trainers should:
 
@@ -18,7 +27,10 @@ Trainers should:
 
 A participant must achieve the required pass rate for their department. Participants who do not meet the requirement should be referred for further revision or retraining.
 
-Evaluation Departments
+---
+
+## Evaluation Departments
+
 Stage 2 evaluations may be conducted for the following departments:
 
 - Flight Deck
@@ -27,10 +39,12 @@ Stage 2 evaluations may be conducted for the following departments:
 
 Use the grading criteria for the relevant department only.
 
-Flight Deck
+---
 
-Maximum Score: 60 points  
-Pass Requirement: 48 points
+# Flight Deck
+
+**Maximum Score:** 60 points  
+**Pass Requirement:** 48 points
 
 | Criterion | Description | Points |
 |---|---|---:|
@@ -44,7 +58,7 @@ Pass Requirement: 48 points
 | Taxi to Gate | Taxi alignment, gear positioning, speed control, and gate approach. | 5 |
 | **Total** |  | **60** |
 
-Recommended Evaluation Routes
+## Recommended Evaluation Routes
 
 - Keflavik → Sauthepomea — hill approach
 - Tokyo → Perth — Runway 29 approach
@@ -53,12 +67,14 @@ Recommended Evaluation Routes
 - Izolrani → St. Barts — beach approach
 - Izolrani → Laranca — Runway 26 approach
 
-Weather conditions are not fixed and may be selected randomly by the trainer.
+> Weather conditions are not fixed and may be selected randomly by the trainer.
 
-Cabin Crew
+---
 
-Maximum Score: 55 points  
-Pass Requirement: 44 points
+# Cabin Crew
+
+**Maximum Score:** 55 points  
+**Pass Requirement:** 44 points
 
 | Criterion | Description | Points |
 |---|---|---:|
@@ -72,12 +88,14 @@ Pass Requirement: 44 points
 | Passenger Situation | Response to a simulated passenger interruption or issue. Assess professionalism, communication, and adherence to procedure. | 10 |
 | **Total** |  | **55** |
 
-Ground Crew
+---
 
-Maximum Score: 50 points  
-Pass Requirement: 40 points
+# Ground Crew
 
-All Ground Crew evaluations should be conducted at Perth.
+**Maximum Score:** 50 points  
+**Pass Requirement:** 40 points
+
+> All Ground Crew evaluations should be conducted at Perth.
 
 | Criterion | Description | Points |
 |---|---|---:|
@@ -87,7 +105,9 @@ All Ground Crew evaluations should be conducted at Perth.
 | Marshalling | Accuracy, timing, communication, and control during marshalling. | 4 |
 | **Total** |  | **50** |
 
-Trainer Notes
+---
+
+# Trainer Notes
 
 - Apply the same standards to every participant.
 - Award points based on observed performance rather than assumptions.
